@@ -1,4 +1,4 @@
-### Run 'npm init' then 'npm install' and finally 'npm start' to view this applciation on localhost://3000
+### Run 'npm init' then 'npm install' and finally 'npm start' to view this application on localhost://3000
 
 ### Recap of exercise intructions:
 
